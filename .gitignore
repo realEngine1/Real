@@ -23,6 +23,16 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+Real-Core/[Dd]ebug/
+Real-Core/[Dd]ebugPublic/
+Real-Core/[Rr]elease/
+Real-Core/[Rr]eleases/
+Real-Core/x64/
+Real-Core/x86/
+Real-Core/bld/
+Real-Core/[Bb]in/
+Real-Core/[Oo]bj/
+Real-Core/[Ll]og/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
