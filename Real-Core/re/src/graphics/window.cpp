@@ -46,6 +46,10 @@ namespace real
 			glfwSwapBuffers(m_Window);
 			glfwPollEvents();
 		}
+		void Window::clear() const
+		{
+			glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+		}
 		bool Window::isClosed()
 		{
 			return m_Closed;

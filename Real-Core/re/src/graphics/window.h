@@ -14,6 +14,7 @@ namespace real
 			~Window();
 
 			void update();
+			void clear() const;
 			bool isClosed();
 
 		private:

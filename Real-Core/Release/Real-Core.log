@@ -3,7 +3,7 @@ c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(1
   c:\users\marmo\documents\real\dipendenze\glfw\include\glfw\glfw3.h(98): note: vedere la precedente definizione di 'APIENTRY'
   window.cpp
   Generazione codice in corso...
-  15 of 16 functions (93.8%) were compiled, the rest were copied from previous compilation.
+  3 of 16 functions (18.8%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Generazione codice terminata
